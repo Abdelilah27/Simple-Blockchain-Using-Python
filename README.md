@@ -1,5 +1,5 @@
 # Simple-Blockchain-using-Python
-Create simple Blockchain using:
+Creating a simple Blockchain using:
   Python 
   Anaconda
   Spyder
