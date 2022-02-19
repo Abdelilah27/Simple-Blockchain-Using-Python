@@ -2,5 +2,5 @@
 Create simple Blockchain using:
   Python 
   Anaconda
-  Spider
+  Spyder
   Postman 
